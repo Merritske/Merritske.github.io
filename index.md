@@ -18,3 +18,6 @@ https://github.com/Merritske/GameBlokje/blob/b9d060a9f0c2fc4d79258a312697d7e944a
 layout: page
 title: "AnimalGame"
 permalink: /Merritske.github.io/GameBlokje
+
+
+index.html
