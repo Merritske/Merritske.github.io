@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-You can use the [editor on GitHub](https://github.com/Merritske/Merritske.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is my website to keep all my projects.
+Feel free to take a look to my work.
 
 ### Markdown
 
