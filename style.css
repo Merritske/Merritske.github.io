@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: rgb(60, 60, 60);
+    color: aqua;
+    font-size: 35px;
+    padding: 20px;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 20px;
+display: flex;
+}
+.navbar li{
+    padding: 20px;
+    font-size: 35px;
+}
+main{
+    font-size: 30px;
+    
+}
