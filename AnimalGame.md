@@ -1,3 +1,3 @@
 layout: page
 title: "AnimalGame"
-permalink: /Merritske.github.io/GameBlokje/
+permalink: /Merritske.github.io/GameBlokje
