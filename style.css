@@ -21,3 +21,14 @@ main{
     font-size: 30px;
     
 }
+.text{
+    font-size: 40px;
+    padding: 50px;
+
+animation: fade 10s infinite;
+}
+@keyframes fade{
+    0%{opacity: 0}
+    50%{opacity: 1;}
+    100%{opacity: 0;}
+}
