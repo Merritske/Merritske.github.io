@@ -14,7 +14,11 @@ header{
 display: flex;
 }
 .navbar li{
-    padding: 20px;
+    top: -5px;
+    width: 60px;
+    height: 35px;
+    background-color: transparent;
+    padding-top: 3px;
     font-size: 35px;
 }
 main{
@@ -32,3 +36,22 @@ animation: fade 10s infinite;
     50%{opacity: 1;}
     100%{opacity: 0;}
 }
+.flex-center {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  .container {
+    padding: 1rem 1rem 1.5rem;
+  }
+  
+
+  
+  .stage {
+    max-width: 400px;
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+ 

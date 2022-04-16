@@ -36,3 +36,95 @@
     transform: rotate(360deg);
   }
 }
+
+/* 
+
+.btn-10 a {
+  padding: 0;
+}
+
+.btn-10 a span {
+  display: block;
+  padding: 0 30px;
+}
+
+.btn-10 a:before,
+.btn-10 a:after,
+.btn-10 a span:before,
+.btn-10 a span:after {
+  position: absolute;
+  background-color: #ffe800;
+}
+
+.btn-10 a:before {
+  width: 3px;
+  height: 0;
+  left: 0;
+  bottom: 0;
+  -webkit-transition: all .1s .3s;
+  -o-transition: all .1s .3s;
+  transition: all .1s .3s;
+}
+
+.btn-10 a:after {
+  width: 0;
+  height: 3px;
+  left: 0;
+  top: 0;
+  -webkit-transition: all .1s .2s;
+  -o-transition: all .1s .2s;
+  transition: all .1s .2s;
+}
+
+.btn-10 a span:before {
+  width: 3px;
+  height: 0;
+  right: 0;
+  top: 0;
+  -webkit-transition: all .1s .1s;
+  -o-transition: all .1s .1s;
+  transition: all .1s .1s;
+}
+
+.btn-10 a span:after {
+  width: 0;
+  height: 3px;
+  right: 0;
+  bottom: 0;
+  -webkit-transition: all .1s;
+  -o-transition: all .1s;
+  transition: all .1s;
+}
+
+.btn-10 a:hover:before {
+  height: 100%;
+  -webkit-transition: all .1s;
+  -o-transition: all .1s;
+  transition: all .1s;
+}
+
+.btn-10 a:hover:after {
+  width: 100%;
+  -webkit-transition: all .1s .1s;
+  -o-transition: all .1s .1s;
+  transition: all .1s .1s;
+}
+
+.btn-10 a:hover span:before {
+  height: 100%;
+  -webkit-transition: all .1s .2s;
+  -o-transition: all .1s .2s;
+  transition: all .1s .2s;
+}
+
+.btn-10 a:hover span:after {
+  width: 100%;
+  -webkit-transition: all .1s .3s;
+  -o-transition: all .1s .3s;
+  transition: all .1s .3s;
+}
+
+nav a:hover {
+  color: #ffe800;
+}
+ */

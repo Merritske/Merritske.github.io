@@ -15,23 +15,7 @@ function App() {
      {/* <Quotes /> */}
 
         {/* <img src="/images/hond.jpg" /> */}
-       <ul style={{listStyleType: "none"}}>
-         Kortverhalen
-         {/* <li>
-           
-Huis te koop in gezellige buurt.
-    </li> */}
-        
-         <li onClick={()=>setUiterst(true)} style={{cursor:"pointer"}} >
-     
-          Een uiterst gewichtige aangelegenheid. 
-  
-{
-  uiterst && <Uiterst />
-}
-
-         </li>
-       </ul>
+   
       </header>
     </div>
   );

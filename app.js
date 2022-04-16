@@ -24,7 +24,13 @@
    "Just enjoy it, her and now, something else doesn't exist -An Verbeeck-",
    "I have not failed. I've just found 10.000 ways that won't work. -Thomas A. Edison-",
    "Some cause happiness wherever they go, others whenever they go. -Oscar Wilde-",
-   "Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. -Voltaire-"
+   "Each player must accept the cards life deals him: he must decide how to play the cards in order to win the game. -Voltaire-",
+   "We liggen allemaal in de goot maar sommigen kijken omhoog naar de sterren. - Oscar Wilde-",
+"Met de juiste trigger is het altijd een schot in de roos. -An Verbeeck-",
+"Tact bestaat eruit dat je weet hoever je te ver kunt gaan. -Ezra Pound-",
+"Ik weet dat poëzie onmisbaar is, maar ik kan niet zeggen waarvoor. -Jean Cocteau-",
+"Genie is 1% inspiratie en 99% transpiratie. -Thomas A. Edison-",
+"Het feit dat een mening algemeen aanvaard wordt, houdt geen enkel bewijs in dat die niet volkomen absurd is. -Bertrand Russel-"
    ] 
 
    y =0

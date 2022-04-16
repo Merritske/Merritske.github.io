@@ -4,7 +4,8 @@
 "Sometimes a cigar is just a cigar. -Sigmund Freud-" , 
 "I have not failed. I've just found 10.000 ways that won't work. -Thomas A. Edison-",
 "Some cause happiness wherever they go, others whenever they go. -Oscar Wilde-",
-"Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game. -Voltaire-"
+"Each player must accept the cards life deals him: he must decide how to play the cards in order to win the game. -Voltaire-",
+"Enjoy it here and now, something else doesn't exist. -An Verbeeck"
 ]
 
 
